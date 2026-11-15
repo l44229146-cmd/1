@@ -1,0 +1,12 @@
+{
+  "environment": "Humanoid-v5",
+  "model_sha256": "5a7b38be61afb41cfe37acdc70e9997f29415a833684d91773c6049951a18cd6",
+  "seed": 42,
+  "steps": 1000,
+  "duration_s": 15.000000000000457,
+  "forward_distance_m": 43.760581021221384,
+  "mean_forward_speed_m_s": 2.917372068081337,
+  "reward": 8174.946189843591,
+  "terminated_unhealthy": false,
+  "truncated_time_limit": true
+}

@@ -1,0 +1,6 @@
+gymnasium[mujoco]==1.2.3
+mujoco==3.17.0
+stable-baselines3==2.7.1
+torch==2.15.0
+matplotlib==3.11.2
+imageio==2.38.1
