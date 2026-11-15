@@ -1,0 +1,23 @@
+{
+  "simple": {
+    "episodes": 10,
+    "full_time_limit_episodes": 8,
+    "mean_speed_m_s": 0.15250444535643679,
+    "mean_absolute_speed_error_m_s": 1.1474955546435635,
+    "mean_duration_s": 14.212500000000427
+  },
+  "medium": {
+    "episodes": 10,
+    "full_time_limit_episodes": 10,
+    "mean_speed_m_s": 1.8605909542692682,
+    "mean_absolute_speed_error_m_s": 0.5605909542692681,
+    "mean_duration_s": 15.000000000000458
+  },
+  "expert": {
+    "episodes": 10,
+    "full_time_limit_episodes": 10,
+    "mean_speed_m_s": 2.871540891385874,
+    "mean_absolute_speed_error_m_s": 1.5715408913858737,
+    "mean_duration_s": 15.000000000000458
+  }
+}
